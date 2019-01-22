@@ -36,31 +36,31 @@ items:
       - name: 入门指南概述
         href: Getting-Started/Overview.md
       - name: 邀请码
-        href: Getting-Started/Invitation code.md
+        href: Getting-Started/Invitation-code.md
       - name: 开通JD WorkSpaces
-        href: Getting-Started/Application process.md
+        href: Getting-Started/Application-process.md
       - name: 活动目录（AD）管理
-        href: Getting-Started/Active Directory Manager.md
+        href: Getting-Started/Active-Directory-Manager.md
       - name: 创建（购买）云桌面
-        href: Getting-Started/Purchase WorkSpace.md
+        href: Getting-Started/Purchase-WorkSpace.md
       - name: 云桌面实例管理
-        href: Getting-Started/WorkSpace Instance.md
+        href: Getting-Started/WorkSpace-Instance.md
       - name: 策略管理
-        href: Getting-Started/Policy Management.md
+        href: Getting-Started/Policy-Management.md
       - name: 云桌面用户（终端用户）
         href: Getting-Started/User.md
   - name: 操作指南
     items:
       - name: 购买须知
-        href: Operation-Guide/Purchase Notes.md
+        href: Operation-Guide/Purchase-Notes.md
       - name: 开通JD WorkSpaces的流程
-        href: Operation-Guide/Application process.md
+        href: Operation-Guide/Application-process.md
       - name: 创建（购买）云桌面的流程
-        href: Operation-Guide/Purchase WorkSpace.md
+        href: Operation-Guide/Purchase-WorkSpace.md
       - name: 新增用户的流程
-        href: Operation-Guide/Purchase User.md  
+        href: Operation-Guide/Purchase-User.md  
       - name: 创建策略的流程
-        href: Operation-Guide/Purchase Policy.md          
+        href: Operation-Guide/Purchase-Policy.md          
   - name: 常见问题
     href: FAQ/FAQ.md
   - name: API参考
