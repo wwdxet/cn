@@ -3,7 +3,7 @@
  京东云直播SDK是京东云推出的应用于移动端平台的软件开发工具包。包含推流SDK、播放器SDK两个模块，可分别支持Android端、iOS端的推流及播放。   
  推流SDK能够帮助开发者快速实现稳定的视频直播采集和推流功能，播放器SDK支持对直播、点播、本地视频等多种类型视频的播放。
  京东云直播SDK是京东云提供的直播一站式服务的一部分,可为客户提供移动端音视频数据采集、处理、推流和播放等功能。
-![](https://github.com/jdcloudcom/cn/blob/cn-live-video/image/live-video/%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF-%E5%A8%B1%E4%B9%90%E7%A7%80%E5%9C%BA.jpg)
+![](https://github.com/jdcloudcom/cn/blob/cn-Video-on-Demand/image/live-video/SDK-ios%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 
 -   **Demo体验**
 
