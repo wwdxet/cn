@@ -133,18 +133,18 @@ JDCloudPIPLive  mStreamer = new JDCloudPIPLive(this);
 ((JDCloudPIPLive)mStreamer).getMediaPlayerCapture().getMediaPlayer().setVolume(0.4f, 0.4f);
 ((JDCloudPIPLive) mStreamer).setCameraPreviewRect(0.65f, 0.f, 0.35f, 0.3f);//设置推流视频位置
 ```
-* **开始推流**  
+开始推流  
 ```
 ((JDCloudPIPLive) mStreamer).getMediaPlayerCapture().getMediaPlayer().start();
 ((JDCloudPIPLive) mStreamer).getPictureCapture().start(this, mPIPPicPath);
 ```
-* **暂停推流**
+暂停推流
 ```
 mStreamer.onPause();
 ((JDCloudPIPLive) mStreamer).getMediaPlayerCapture().getMediaPlayer().pause();
 ((JDCloudPIPLive) mStreamer).getPictureCapture().stop();
 ```
-* **停止推流代码如下**
+停止推流代码如下  
 ```
 mStreamer.stopPush();
 mStreamer.hideBgPicture();//隐藏背景图
