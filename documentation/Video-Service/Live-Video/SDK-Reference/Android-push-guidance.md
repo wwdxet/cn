@@ -57,7 +57,6 @@ iOS端推流SDK&播放器SDK请<a href="https://sdk-publish.oss.cn-north-1.jclou
 * **工程目录结构**  
 demo: 示例工程，演示本SDK主要接口功能的使用    
 libs: 集成SDK需要的所有库文件    
-
 jniLibs/[armeabi-v7a|arm64-v8a|x86]: 各平台的so库    
 libs/jdc_live.jar: SDK jar包    
 
