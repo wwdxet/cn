@@ -36,9 +36,6 @@
 * **迭代**  
 当前版本为1.0.0  
 
-* **直播SDK**  
-JDCloud_Live Android SDK集成了 JDCloudLive，具有直播推流sdk的所有功能。  
-
 * **体系结构**  
 当前推流 JDCloud_Live Android SDK支持以下体系结构:
 armeabi-v7a
@@ -53,14 +50,14 @@ ARMv5 ARMv6 设备计算性能较差，京东云不保证该芯片设备上的�
 具体可以参考demo工程中的相应文件。
 
 * **获取SDK和demo**  
-待补充
+
 
 * **工程目录结构**  
-demo: 示例工程，演示本SDK主要接口功能的使用  
-libs: 集成SDK需要的所有库文件  
+demo: 示例工程，演示本SDK主要接口功能的使用    
+libs: 集成SDK需要的所有库文件    
 
-jniLibs/[armeabi-v7a|arm64-v8a|x86]: 各平台的so库  
-libs/jdc_live.jar: SDK jar包  
+jniLibs/[armeabi-v7a|arm64-v8a|x86]: 各平台的so库    
+libs/jdc_live.jar: SDK jar包    
 
 * **配置项目**    
 引入目标库, 将libs目录下的库文件引入到目标工程中并添加依赖。
