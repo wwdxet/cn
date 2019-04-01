@@ -49,8 +49,10 @@ ARMv5 ARMv6 设备计算性能较差，京东云不保证该芯片设备上的�
 本章节提供一个快速集成京东云推流SDK基础功能的示例。
 具体可以参考demo工程中的相应文件。
 
-* **获取SDK和demo**  
-
+* **获取SDK**  
+京东云直播SDK按不同终端分为两个压缩包提供，如您需集成京东云的直播SDK，可按以下方式下载：  
+Android端推流SDK&播放器SDK请<a href="https://sdk-publish.oss.cn-north-1.jcloudcs.com/sdk/jdcloud_streamer_android.zip">点击下载</a><br/>  
+iOS端推流SDK&播放器SDK请<a href="https://sdk-publish.oss.cn-north-1.jcloudcs.com/sdk/jdcloud_streamer_ios.zip">点击下载</a>
 
 * **工程目录结构**  
 demo: 示例工程，演示本SDK主要接口功能的使用    
