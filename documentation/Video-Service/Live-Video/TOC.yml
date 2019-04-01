@@ -77,17 +77,25 @@ items:
       items:
         -name：功能特性
          href:
-        -name：Android推流SDK
+        -name：Android端快速集成
          href:
-         -name：iOS推流SDK
+        -name：Android端SDK相关接口
+         href:
+        -name：iOS端快速集成
+         href:
+        -name：iOS端SDK相关接口
          href:
     - name: 播放器SDK
       items:
         -name：功能特性
          href:
-        -name：Android播放器SDK
+        -name：Android端快速集成
          href:
-         -name：iOS播放器SDK
+        -name：Android端SDK相关接口
+         href:
+        -name：iOS端快速集成
+         href:
+        -name：iOS端SDK相关接口
          href:
 - name: 教程
   items:
