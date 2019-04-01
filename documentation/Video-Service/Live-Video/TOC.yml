@@ -91,11 +91,11 @@ items:
          href:
         -name：Android端快速集成
          href:
-        -name：Android端SDK相关接口
+        -name：Android端SDK的使用
          href:
         -name：iOS端快速集成
          href:
-        -name：iOS端SDK相关接口
+        -name：iOS端SDK的使用
          href:
 - name: 教程
   items:
